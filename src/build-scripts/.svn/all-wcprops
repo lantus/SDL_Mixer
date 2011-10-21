@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/SDL_mixer/src/build-scripts
+END
+makedep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/SDL_mixer/src/build-scripts/makedep.sh
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/SDL_mixer/src/build-scripts/mkinstalldirs
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/SDL_mixer/src/build-scripts/config.guess
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/SDL_mixer/src/build-scripts/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/SDL_mixer/src/build-scripts/config.sub
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/SDL_mixer/src/build-scripts/install-sh
+END

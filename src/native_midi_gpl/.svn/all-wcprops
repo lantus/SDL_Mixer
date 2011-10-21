@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/SDL_mixer/src/native_midi_gpl
+END
+emumidi.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/SDL_mixer/src/native_midi_gpl/emumidi.h
+END
+patchload.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/SDL_mixer/src/native_midi_gpl/patchload.c
+END
+gmvoices.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/SDL_mixer/src/native_midi_gpl/gmvoices.h
+END
+readmidi_native.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/SDL_mixer/src/native_midi_gpl/readmidi_native.c
+END
+awe_voice.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/SDL_mixer/src/native_midi_gpl/awe_voice.h
+END
+gsvoices.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/SDL_mixer/src/native_midi_gpl/gsvoices.h
+END
+emumidi.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/SDL_mixer/src/native_midi_gpl/emumidi.c
+END
+playevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/SDL_mixer/src/native_midi_gpl/playevents.c
+END
+native_midi_gpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/SDL_mixer/src/native_midi_gpl/native_midi_gpl.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/SDL_mixer/src/native_midi_gpl/README
+END
+playmidi.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/SDL_mixer/src/native_midi_gpl/playmidi.h
+END

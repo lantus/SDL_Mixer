@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity
+END
+output.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/output.c
+END
+timidity.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/timidity.h
+END
+instrum.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/instrum.c
+END
+mix.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/mix.h
+END
+output.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/output.h
+END
+instrum.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/instrum.h
+END
+playmidi.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/playmidi.c
+END
+resample.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/resample.c
+END
+ctrlmode.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/ctrlmode.c
+END
+tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/tables.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/config.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/README
+END
+resample.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/resample.h
+END
+playmidi.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/playmidi.h
+END
+ctrlmode.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/ctrlmode.h
+END
+readmidi.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/readmidi.c
+END
+tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/tables.h
+END
+sdl_a.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/sdl_a.c
+END
+readmidi.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/readmidi.h
+END
+sdl_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/sdl_c.c
+END
+filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/filter.c
+END
+FAQ
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/FAQ
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/common.c
+END
+filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/filter.h
+END
+timidity.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/timidity.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/common.h
+END
+mix.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/SDL_mixer/src/timidity/mix.c
+END

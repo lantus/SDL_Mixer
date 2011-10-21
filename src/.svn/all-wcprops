@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/82/trunk/SDL_mixer/src
+END
+SDL_mixer.qpg.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/SDL_mixer/src/SDL_mixer.qpg.in
+END
+music_mad.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/SDL_mixer/src/music_mad.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/SDL_mixer/src/Makefile.in
+END
+music_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/SDL_mixer/src/music_cmd.c
+END
+music_mad.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/SDL_mixer/src/music_mad.h
+END
+music_cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/SDL_mixer/src/music_cmd.h
+END
+dynamic_flac.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/SDL_mixer/src/dynamic_flac.c
+END
+effect_stereoreverse.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/SDL_mixer/src/effect_stereoreverse.c
+END
+effects_internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/SDL_mixer/src/effects_internal.c
+END
+music_ogg.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/82/trunk/SDL_mixer/src/music_ogg.c
+END
+dynamic_flac.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/SDL_mixer/src/dynamic_flac.h
+END
+effects_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/SDL_mixer/src/effects_internal.h
+END
+CWProjects.sea.bin
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/SDL_mixer/src/CWProjects.sea.bin
+END
+music_ogg.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/SDL_mixer/src/music_ogg.h
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/SDL_mixer/src/CHANGES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/SDL_mixer/src/COPYING
+END
+playmus.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/SDL_mixer/src/playmus.c
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/SDL_mixer/src/autogen.sh
+END
+SDL_mixer.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/SDL_mixer/src/SDL_mixer.h
+END
+MPWmake.sea.bin
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/SDL_mixer/src/MPWmake.sea.bin
+END
+SDL_mixer.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/SDL_mixer/src/SDL_mixer.spec.in
+END
+dynamic_mp3.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/SDL_mixer/src/dynamic_mp3.c
+END
+load_aiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/SDL_mixer/src/load_aiff.c
+END
+load_flac.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/SDL_mixer/src/load_flac.c
+END
+music_flac.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/SDL_mixer/src/music_flac.c
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/SDL_mixer/src/configure.in
+END
+version.rc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/SDL_mixer/src/version.rc
+END
+dynamic_mp3.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/SDL_mixer/src/dynamic_mp3.h
+END
+load_aiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/SDL_mixer/src/load_aiff.h
+END
+load_flac.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/SDL_mixer/src/load_flac.h
+END
+music_flac.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/SDL_mixer/src/music_flac.h
+END
+load_ogg.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/SDL_mixer/src/load_ogg.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/SDL_mixer/src/README
+END
+wavestream.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/SDL_mixer/src/wavestream.c
+END
+music.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/SDL_mixer/src/music.c
+END
+load_ogg.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/SDL_mixer/src/load_ogg.h
+END
+effect_position.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/SDL_mixer/src/effect_position.c
+END
+dynamic_ogg.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/SDL_mixer/src/dynamic_ogg.c
+END
+wavestream.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/SDL_mixer/src/wavestream.h
+END
+mixer.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/SDL_mixer/src/mixer.c
+END
+dynamic_ogg.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/SDL_mixer/src/dynamic_ogg.h
+END
+load_voc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/SDL_mixer/src/load_voc.c
+END
+playwave.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/SDL_mixer/src/playwave.c
+END
+load_voc.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/SDL_mixer/src/load_voc.h
+END
+gcc-fat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/SDL_mixer/src/gcc-fat.sh
+END

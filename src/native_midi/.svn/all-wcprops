@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/SDL_mixer/src/native_midi
+END
+native_midi_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/SDL_mixer/src/native_midi/native_midi_common.c
+END
+native_midi_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/SDL_mixer/src/native_midi/native_midi_common.h
+END
+native_midi_mac.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/SDL_mixer/src/native_midi/native_midi_mac.c
+END
+native_midi_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/SDL_mixer/src/native_midi/native_midi_win32.c
+END
+native_midi.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/SDL_mixer/src/native_midi/native_midi.h
+END
